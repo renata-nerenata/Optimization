@@ -7,25 +7,22 @@ The Nelder–Mead method is a commonly applied numerical method used to find the
 Implementation Nelder-Mead method for the Mishra’s Bird function 
 
 <img src="http://latex2png.com/pngs/372ab1f0b5b7edeb21070ec45db3e31a.png" width="250"/>
- 
-![test](http://latex2png.com/pngs/372ab1f0b5b7edeb21070ec45db3e31a.png)
 
 with the domain 
 
-<img src="http://latex2png.com/pngs/6109f5bf31260475014ae7687060a8e8.png" width="100"/>
+<img src="http://latex2png.com/pngs/6109f5bf31260475014ae7687060a8e8.png" width="130"/>
 
-![test](http://latex2png.com/pngs/6109f5bf31260475014ae7687060a8e8.png)
 
 ## Coordinate descent
 Coordinate descent is an optimization algorithm that successively minimizes along coordinate directions to find the minimum of a function.
 
 Implementation Coordinate descent for the Mishra’s Bird function 
 
-![test](http://latex2png.com/pngs/372ab1f0b5b7edeb21070ec45db3e31a.png)
+<img src="http://latex2png.com/pngs/372ab1f0b5b7edeb21070ec45db3e31a.png" width="250"/>
 
 with the domain 
 
-![test](http://latex2png.com/pngs/6109f5bf31260475014ae7687060a8e8.png)
+<img src="http://latex2png.com/pngs/6109f5bf31260475014ae7687060a8e8.png" width="130"/>
           
 ### Conclusion:
 
