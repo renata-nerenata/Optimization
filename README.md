@@ -1,10 +1,13 @@
-# Nelder_Mead
+# Optimization
+This repository reviews interesting optimization algorithms.
+
+# Nelder Mead
 The Nelder–Mead method is a commonly applied numerical method used to find the minimum or maximum of an objective function in a multidimensional space.
 
 Implementation Nelder-Mead method for the Mishra’s Bird function 
  
-\\[f(x,y)=\sin(y)e^{(1−\cos x)^2} +\cos(x)e^{(1−\sin y)^2} +(x−y)^2)\\]
+![Image description](http://latex2png.com/pngs/372ab1f0b5b7edeb21070ec45db3e31a.png)
 
 with the domain 
 
-\\[(x+5)^2+(y+5)^2 < 25\\]
+![Image description](http://latex2png.com/pngs/6109f5bf31260475014ae7687060a8e8.png) 
