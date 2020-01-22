@@ -1,7 +1,7 @@
 # Optimization
 This repository reviews interesting optimization algorithms.
 
-# Nelder Mead
+## Nelder Mead
 The Nelder–Mead method is a commonly applied numerical method used to find the minimum or maximum of an objective function in a multidimensional space.
 
 Implementation Nelder-Mead method for the Mishra’s Bird function 
