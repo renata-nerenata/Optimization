@@ -10,4 +10,4 @@ Implementation Nelder-Mead method for the Mishra’s Bird function
 
 with the domain 
 
-![Image description](http://latex2png.com/pngs/6109f5bf31260475014ae7687060a8e8.png | width=100) 
+![Image description](http://latex2png.com/pngs/6109f5bf31260475014ae7687060a8e8.png) 
